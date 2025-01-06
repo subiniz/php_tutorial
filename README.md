@@ -1,0 +1,1 @@
+This repo is designed specifically for learning PHP & Database. Please clone the repo as per your need.
