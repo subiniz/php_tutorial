@@ -27,7 +27,7 @@ This course focuses on developing a solid foundation in PHP programming and data
 
 ## 🛠️ Tools and Technologies
 - PHP
-- MySQL/MariaDB
+- MySQL Database
 - Object-Oriented Programming (OOP)
 - Local Server Environment
 - Git
