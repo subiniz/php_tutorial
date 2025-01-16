@@ -1,6 +1,6 @@
 # Information
 
-## 📚 Overview
+## 📚 Lesson 2 - Overview
 
 This branch contains the template skeleton to start your application.
 
