@@ -15,7 +15,7 @@ This course focuses on developing a solid foundation in PHP programming and data
 ## 🚀 Getting Started
 1. Clone this repository to your local machine:
 ```bash
-   git clone https://github.com/subiniz/php_tutorial.git
+   git clone https://github.com/subsnibus/php_tutorial.git
 ```
 2. Install a local server environment. Recommended tools:
 - Laragon (Preferred)
