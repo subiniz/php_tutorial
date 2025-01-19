@@ -1,1 +1,1 @@
-This repo is designed specifically for learning PHP & Database. Please clone the repo as per your need.
+This repo is designed specifically for learning basic PHP & Database. Please clone the repo as per your need. Checkout the listed branches for lesson contents.
