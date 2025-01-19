@@ -18,7 +18,7 @@ This course focuses on developing a solid foundation in PHP programming and data
    git clone https://github.com/subiniz/php_tutorial.git
 ```
 2. Install a local server environment. Recommended tools:
-- Laragon (Preferred)
+- Laragon
 - XAMPP
 - MAMP
 - WAMP
