@@ -10,8 +10,6 @@ This branch contains the template skeleton to start your application.
     - **/img:** This directory contains all the images used by the AdminLTE 2 starter template.
     - **/fonts:** This directory contains all the fonts used by the AdminLTE 2 starter template.
 - **/templates:** The directory contains the reusable templates for the CMS like header, sidebar and footer. You can add/modify/remove any templates as per your requirement and design.
-- **/uploads:** This directory will contain all the files uploaded through the CMS. *For instance, a profile picture.*
-- **/config:** This directory contains the configuration files like database connection.
 - **index.php:** This file contains a blank page with basic CSS, JS, Images and Fonts all integrated.
 - **detail.php:** This file contains a sample table to play around with.
 - **login.php:** This file contains html for a login page.
